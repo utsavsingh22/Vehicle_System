@@ -24,4 +24,6 @@ Step 4:- Create ADLS (Cloud based service provided by microsoft azure it enables
 Step 5:- Create ADF(cloud based data integration service that enables the creation, scheduling, and management of data pipelines to move and transform data from various sources and destination.
 ![image](https://github.com/utsavsingh22/Vehicle_System/assets/60449352/503dabb0-b6b3-4643-a6f6-375a0430a549)
 
-Step 6:- Create Linked Service in ADF from manage tab(A linked service is a connection to a data source or destination that is used to create a pipeline in Azure Data Factory. It contains the connection information required to access the data source or destination.
+Step 6:- Create Linked Service in ADF from manage tab(A linked service is a connection to a data source or destination that is used to create a pipeline in Azure Data Factory. It contains the connection information required to access the data source or destination. Then create copy activity Pipeline.
+
+Step 7:- Create SQL Server to pull the data
